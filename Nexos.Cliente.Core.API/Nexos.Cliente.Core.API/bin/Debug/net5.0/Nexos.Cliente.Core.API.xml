@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Nexos.Cliente.Core.API</name>
+    </assembly>
+    <members>
+        <member name="T:Nexos.Cliente.Core.API.BindingModel.AutorDTO">
+            <summary>
+            Calase para el manejo de autores
+            </summary>
+        </member>
+        <member name="P:Nexos.Cliente.Core.API.BindingModel.AutorDTO.Id">
+            <summary>
+            Id del autor
+            </summary>
+        </member>
+        <member name="P:Nexos.Cliente.Core.API.BindingModel.AutorDTO.NombreCompleto">
+            <summary>
+            Nombre completo del autor
+            </summary>
+        </member>
+        <member name="P:Nexos.Cliente.Core.API.BindingModel.AutorDTO.FechaNacimiento">
+            <summary>
+            Fecha de nacimiento
+            </summary>
+        </member>
+        <member name="P:Nexos.Cliente.Core.API.BindingModel.AutorDTO.CiudadNacimiento">
+            <summary>
+            Ciudad de nacimiento
+            </summary>
+        </member>
+        <member name="P:Nexos.Cliente.Core.API.BindingModel.AutorDTO.Email">
+            <summary>
+            Correo electronico
+            </summary>
+        </member>
+        <member name="T:Nexos.Cliente.Core.API.Controllers.AutorController">
+            <summary>
+            Cantrolador para el manejo de autores
+            </summary>
+        </member>
+        <member name="M:Nexos.Cliente.Core.API.Controllers.AutorController.#ctor(AutoMapper.IMapper,Nexos.Cliente.Domain.Core.Services.InterfaceService.IReadableAutorService,Nexos.Cliente.Domain.Core.Services.InterfaceService.IWriteableAutorService,Nexos.Cliente.Domain.Core.Services.InterfaceService.IRemovableAutorService)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="mapper"></param>
+            <param name="readableAutorService"></param>
+            <param name="writeableAutorService"></param>
+            <param name="removableAutorService"></param>
+        </member>
+        <member name="M:Nexos.Cliente.Core.API.Controllers.AutorController.PostAutor(Nexos.Cliente.Core.API.BindingModel.AutorDTO)">
+            <summary>
+            Crear autor
+            </summary>
+            <param name="autor"></param>
+            <response code="200">OK. Devuelve el objeto solicitado.</response>
+            <response code="404">NotFound. No se ha encontrado el objeto solicitado.</response>
+            <response code="500">InternalServerError. Error en el servidor.</response>
+            <returns></returns>
+        </member>
+        <member name="M:Nexos.Cliente.Core.API.Controllers.AutorController.GetAutores">
+            <summary>
+            Obtener listado de autores
+            </summary>
+            <response code="200">OK. Devuelve el objeto solicitado.</response>
+            <response code="404">NotFound. No se ha encontrado el objeto solicitado.</response>
+            <response code="500">InternalServerError. Error en el servidor.</response>
+            <returns></returns>
+        </member>
+        <member name="M:Nexos.Cliente.Core.API.Controllers.AutorController.GetAutor(System.Int32)">
+            <summary>
+            Obtener autor por id
+            </summary>
+            <param name="id"></param>
+            <response code="200">OK. Devuelve el objeto solicitado.</response>
+            <response code="404">NotFound. No se ha encontrado el objeto solicitado.</response>
+            <response code="500">InternalServerError. Error en el servidor.</response>
+            <returns></returns>
+        </member>
+        <member name="M:Nexos.Cliente.Core.API.Controllers.AutorController.PutAutor(Nexos.Cliente.Core.API.BindingModel.AutorDTO)">
+            <summary>
+            Editar autor
+            </summary>
+            <param name="autor"></param>
+            <response code="200">OK. Devuelve el objeto solicitado.</response>
+            <response code="404">NotFound. No se ha encontrado el objeto solicitado.</response>
+            <response code="500">InternalServerError. Error en el servidor.</response>
+            <returns></returns>
+        </member>
+        <member name="M:Nexos.Cliente.Core.API.Controllers.AutorController.DeleteAutor(System.Int32)">
+            <summary>
+            Eliminar autor
+            </summary>
+            <param name="id"></param>
+            <response code="200">OK. Devuelve el objeto solicitado.</response>
+            <response code="404">NotFound. No se ha encontrado el objeto solicitado.</response>
+            <response code="500">InternalServerError. Error en el servidor.</response>
+            <returns></returns>
+        </member>
+        <member name="T:Nexos.Cliente.Core.API.Mapping.MappingProfile">
+            <summary>
+            Provide a profile for mapping
+            </summary>
+        </member>
+        <member name="M:Nexos.Cliente.Core.API.Mapping.MappingProfile.#ctor">
+            <summary>
+            Create mappings
+            </summary>
+        </member>
+    </members>
+</doc>

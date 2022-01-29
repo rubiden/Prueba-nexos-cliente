@@ -1,0 +1,30 @@
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\bin\Debug\net5.0\Nexos.Cliente.Domain.Core.deps.json
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\bin\Debug\net5.0\Nexos.Cliente.Domain.Core.runtimeconfig.json
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\bin\Debug\net5.0\Nexos.Cliente.Domain.Core.runtimeconfig.dev.json
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\bin\Debug\net5.0\Nexos.Cliente.Domain.Core.dll
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\bin\Debug\net5.0\ref\Nexos.Cliente.Domain.Core.dll
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\bin\Debug\net5.0\Nexos.Cliente.Domain.Core.pdb
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\Nexos.Cliente.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\Nexos.Cliente.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\Nexos.Cliente.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\Nexos.Cliente.Domain.Core.AssemblyInfo.cs
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\Nexos.Cliente.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\Nexos.Cliente.Domain.Core.dll
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\ref\Nexos.Cliente.Domain.Core.dll
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\Nexos.Cliente.Domain.Core.pdb
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\Nexos.Cliente.Domain.Core.genruntimeconfig.cache
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Prueba cliente nexos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\bin\Debug\net5.0\Nexos.Cliente.Domain.Core.deps.json
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Prueba cliente nexos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\bin\Debug\net5.0\Nexos.Cliente.Domain.Core.runtimeconfig.json
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Prueba cliente nexos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\bin\Debug\net5.0\Nexos.Cliente.Domain.Core.runtimeconfig.dev.json
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Prueba cliente nexos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\bin\Debug\net5.0\Nexos.Cliente.Domain.Core.dll
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Prueba cliente nexos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\bin\Debug\net5.0\ref\Nexos.Cliente.Domain.Core.dll
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Prueba cliente nexos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\bin\Debug\net5.0\Nexos.Cliente.Domain.Core.pdb
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Prueba cliente nexos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\Nexos.Cliente.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Prueba cliente nexos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\Nexos.Cliente.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Prueba cliente nexos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\Nexos.Cliente.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Prueba cliente nexos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\Nexos.Cliente.Domain.Core.AssemblyInfo.cs
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Prueba cliente nexos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\Nexos.Cliente.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Prueba cliente nexos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\Nexos.Cliente.Domain.Core.dll
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Prueba cliente nexos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\ref\Nexos.Cliente.Domain.Core.dll
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Prueba cliente nexos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\Nexos.Cliente.Domain.Core.pdb
+C:\Users\rubiden.diazgranados\Documents\Documentos rubiden\Prueba Nexos\Prueba cliente nexos\Nexos.Cliente.Core.API\Nexos.Cliente.Domain.Core\obj\Debug\net5.0\Nexos.Cliente.Domain.Core.genruntimeconfig.cache

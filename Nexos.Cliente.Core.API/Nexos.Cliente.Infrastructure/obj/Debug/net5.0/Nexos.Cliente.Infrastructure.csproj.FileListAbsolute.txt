@@ -1,0 +1,15 @@
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Infrastructure\bin\Debug\net5.0\Nexos.Cliente.Infrastructure.deps.json
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Infrastructure\bin\Debug\net5.0\Nexos.Cliente.Infrastructure.dll
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Infrastructure\bin\Debug\net5.0\ref\Nexos.Cliente.Infrastructure.dll
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Infrastructure\bin\Debug\net5.0\Nexos.Cliente.Infrastructure.pdb
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Infrastructure\obj\Debug\net5.0\Nexos.Cliente.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Infrastructure\obj\Debug\net5.0\Nexos.Cliente.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Infrastructure\obj\Debug\net5.0\Nexos.Cliente.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Infrastructure\obj\Debug\net5.0\Nexos.Cliente.Infrastructure.AssemblyInfo.cs
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Infrastructure\obj\Debug\net5.0\Nexos.Cliente.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Infrastructure\obj\Debug\net5.0\Nexos.Cliente.Infrastructure.dll
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Infrastructure\obj\Debug\net5.0\ref\Nexos.Cliente.Infrastructure.dll
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Infrastructure\obj\Debug\net5.0\Nexos.Cliente.Infrastructure.pdb
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Infrastructure\bin\Debug\net5.0\Nexos.Cliente.Domain.Core.dll
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Infrastructure\bin\Debug\net5.0\Nexos.Cliente.Domain.Core.pdb
+C:\Users\rubiden.diazgranados\source\repos\Nexos.Cliente.Core.API\Nexos.Cliente.Infrastructure\obj\Debug\net5.0\Nexos.Cliente.Infrastructure.csproj.CopyComplete
